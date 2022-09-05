@@ -6,7 +6,7 @@ function Home() {
   return (
     <>
       <Head>
-        <title>Home</title>
+        <title>Julia's Portfolio</title>
       </Head>
 
       <Navbar />
@@ -15,15 +15,14 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-cy="homePageTitle" className="title">
-              Halo, saya Lutfhi Ramadhan
+              Hi! I'm Julia Hoi.
             </h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+              Welcome to my first personal portfolio. Have fun exploring!
             </p>
 
             <Link href="/contact">
-              <a className="cta">Kontak Saya</a>
+              <a className="cta">Contact me</a>
             </Link>
           </div>
 

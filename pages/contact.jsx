@@ -17,8 +17,7 @@ function Contact() {
               Contact
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor.
+              Please don't call me. I won't pick up.
             </p>
             <ul className="contact-links">
               <li className="contact-item">Email: lutfhi@me.com</li>
